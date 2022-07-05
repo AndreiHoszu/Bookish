@@ -1,0 +1,11 @@
+C:\Users\AndHos\RiderProjects\Bookish\Bookish.ConsoleApp\bin\Debug\Bookish.ConsoleApp.exe
+C:\Users\AndHos\RiderProjects\Bookish\Bookish.ConsoleApp\bin\Debug\Bookish.ConsoleApp.pdb
+C:\Users\AndHos\RiderProjects\Bookish\Bookish.ConsoleApp\bin\Debug\Bookish.DataAccess.dll
+C:\Users\AndHos\RiderProjects\Bookish\Bookish.ConsoleApp\bin\Debug\Bookish.DataAccess.pdb
+C:\Users\AndHos\RiderProjects\Bookish\Bookish.ConsoleApp\obj\Debug\Bookish.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\AndHos\RiderProjects\Bookish\Bookish.ConsoleApp\obj\Debug\Bookish.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\AndHos\RiderProjects\Bookish\Bookish.ConsoleApp\obj\Debug\Bookish.ConsoleApp.csproj.CopyComplete
+C:\Users\AndHos\RiderProjects\Bookish\Bookish.ConsoleApp\obj\Debug\Bookish.ConsoleApp.exe
+C:\Users\AndHos\RiderProjects\Bookish\Bookish.ConsoleApp\obj\Debug\Bookish.ConsoleApp.pdb
+C:\Users\AndHos\RiderProjects\Bookish\Bookish.ConsoleApp\bin\Debug\Dapper.dll
+C:\Users\AndHos\RiderProjects\Bookish\Bookish.ConsoleApp\bin\Debug\Dapper.xml
